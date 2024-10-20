@@ -7,7 +7,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/akhilsharma90/go-graphql-microservice/catalog/pb"
+	"github.com/Horoshiy/go-graphql-microservice/catalog/pb"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
